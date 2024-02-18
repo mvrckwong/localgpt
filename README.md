@@ -49,6 +49,10 @@ You can run the application using by *running the run.bat file* or by running th
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Roadmap
+- [ ] Feature 1
+- [ ] Feature 2
+- [ ] Feature 3
+    - [ ] Nested Feature
 
 ## Acknowledgement 
 Huge thanks to the following open source projects for inspiration and direction.
