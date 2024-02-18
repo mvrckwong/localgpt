@@ -36,7 +36,7 @@ Ensure all prerequisites are met. You can run the application by *running the ru
 
 ## Roadmap
 
-The roadmap is a guide for the author for the progression of this sample project. It may not be the most up-to-date.
+The roadmap is a guide for the author and contributors for the progression of the sample project, if decided to continue.
 - [ ] Sample Feature
     - [ ] Sample Nested Feature
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
