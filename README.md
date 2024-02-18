@@ -19,8 +19,8 @@ Before running the python streamlit application, you should have the following i
 
 ### Installation
 
-You can run the application using by *running the run.bat file*.
-
+You can run the application using by *running the run.bat file* or by running the following command.
+- Run the command to install the virtual environment and all the dependencies.
     ```bash
     poetry install
     ```
