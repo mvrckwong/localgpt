@@ -11,10 +11,11 @@ Building your own chat llm applications.
   - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
-    - [Roadmap](#roadmap)
+  - [Roadmap](#roadmap)
   - [Acknowledgement](#acknowledgement)
     - [Other References](#other-references)
   - [Contact](#contact)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Getting Started
 
@@ -31,6 +32,7 @@ Before running the python streamlit application, you should have the following i
     ``` bash
     ollama pull --model=llama2:chat
     ```
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Installation
 
@@ -43,10 +45,9 @@ You can run the application using by *running the run.bat file* or by running th
     ```bash
     poetry run streamlit run src/main.py
     ```
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Roadmap
-[x] Sample 
-[] Sample
+## Roadmap
 
 ## Acknowledgement 
 Huge thanks to the following open source projects for inspiration and direction.
@@ -56,8 +57,10 @@ Huge thanks to the following open source projects for inspiration and direction.
 - [Langchain](https://langchain.com)
 - [Streamlit](https://streamlit.io)
 - [Ollama](https://github.com/m-mizutani/ollama)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Contact
 - [GitHub](https://github.com/mvrckwong)
 - [Linkedin](https://www.linkedin.com/in/mvrckwong/)
 - [Hashnode](https://hashnode.com/@mvrckwong)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
