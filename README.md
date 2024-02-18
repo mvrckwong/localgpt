@@ -9,6 +9,10 @@ Before running the python application, you should have the following installed i
 poetry install
 '''
 
+Before running the python application, you should have the following installed in your local machine.
+1. Install the python 3.9 or higher version, until 3.11.
+2. Install the poetry library, or install it under the '.utils folder'.
+
 ### Installation
 
 
