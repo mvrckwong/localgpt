@@ -19,7 +19,6 @@ Building your own chat llm applications.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Getting Started
-
 ### Prerequisites
 
 Before running the python streamlit application, you should have the following installed in your local machine. Currently, the application is working in WindowsOS machine, and not test in MacOS and LinuxOS.
@@ -37,7 +36,7 @@ Before running the python streamlit application, you should have the following i
 
 ### Installation
 
-You can run the application using by *running the run.bat file* or by running the following command.
+Ensure all prerequisites are met. You can run the application using by *running the run.bat file* or by running the following command.
 - Run the command to install the virtual environment and all the dependencies.
     ```bash
     poetry install
