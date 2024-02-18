@@ -1,0 +1,58 @@
+# # Streamlit config.toml template
+
+# ## Server Configuration
+# [server]
+# # The port on which to listen (default is 8501)
+# port = 8501
+# # Enable or disable CORS (Cross-Origin Resource Sharing)
+# enableCORS = false
+# # Run Streamlit in headless mode (useful in containers)
+# headless = true
+# # The base path for the URL where the Streamlit app will be served
+# baseUrlPath = ""
+# # Enable XSRF (Cross-Site Request Forgery) protection
+# enableXsrfProtection = false
+# # Enable WebSocket compression
+# enableWebsocketCompression = false
+
+# ## Browser Configuration
+# [browser]
+# # Allow Streamlit to gather usage statistics
+# gatherUsageStats = false
+# # The server address that the browser should use
+# serverAddress = "localhost"
+
+# ## Logging Configuration
+# [logger]
+# # The logging level: debug, info, warning, error, critical
+# level = "info"
+
+# ## Theme Configuration
+# [theme]
+# # Primary color for interactive elements
+# primaryColor = "#F63366"
+# # Background color for the main content area
+# backgroundColor = "#FFFFFF"
+# # Background color for sidebar and other secondary content areas
+# secondaryBackgroundColor = "#F0F2F6"
+# # Text color
+# textColor = "#262730"
+# # Font family: sans serif, serif, or monospace
+# font = "sans serif"
+
+# ## Global Configuration
+# [global]
+# # Run Streamlit in development mode
+# developmentMode = false
+# # Disable the watchdog warning
+# disableWatchdogWarning = false
+
+# ## Custom Components Configuration
+# [customComponents]
+# # Custom settings for components (placeholders for your own settings)
+# foo = "bar"
+
+# ## Additional Configuration Sections
+# # Depending on your specific needs, you might have additional sections.
+# # For example, [map] for default map settings, [deprecation] for handling deprecated features, etc.
+
