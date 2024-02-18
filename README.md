@@ -2,8 +2,10 @@
 <a name="readme-top"></a>
 Building your own chat llm applications.
 
-### Benefits
-- LocalGPT can be used to build your own chat applications.
+Here are some advantages and benefits of using LocalGPT.
+- Privacy and Security: Since LocalGPT runs entirely on your own machine, it eliminates concerns about privacy and security associated with sending data to remote servers for processing. This is particularly important for sensitive data or applications where data privacy is a priority.
+- Cost-Efficiency: Utilizing LocalGPT eliminates the need to pay for cloud-based services for model inference, which can be cost-effective, especially for applications with high usage or long-term needs.
+- Low Latency: Running GPT locally can reduce latency because there's no need to send data over the internet to a remote server and wait for a response. This can be crucial for applications requiring real-time or near-real-time responses.
 
 ## Getting Started
 ### Prerequisite
