@@ -5,9 +5,9 @@ Building your own chat llm applications.
 
 ### Prerequisites
 
-Before running the streamlit application, you should have the following installed in your local machine. Currently, the application is working in WindowsOS machine, and not test in MacOS and Linux.
+Before running the python streamlit application, you should have the following installed in your local machine. Currently, the application is working in WindowsOS machine, and not test in MacOS and LinuxOS.
 1. Install the Python 3.9 or higher version, until 3.11.
-2. Install the poetry library. The library will handle all your python dependencies and virtual environment in your local machine. 
+2. Install the poetry library. The library will handle all your python dependencies and virtual environment in your local machine.
     ``` bash
     pip install poetry
     ```
@@ -21,11 +21,13 @@ Before running the streamlit application, you should have the following installe
 
 You can run the following application using the following command:
 
-```bash
-poetry install
+    ```bash
+    poetry install
+    ```
 
-poetry run streamlit run src/main.py
-```
+    ```bash
+    poetry run streamlit run src/main.py
+    ```
 
 
 ## Contact
