@@ -6,7 +6,7 @@ Building your own chat llm applications.
 - LocalGPT can be used to build your own chat applications.
 
 ## Getting Started
-### Prerequisites
+### Prerequisite
 
 Before running the python streamlit application, you should have the following installed in your local machine. Currently, the application is working in WindowsOS machine, and not test in MacOS and LinuxOS.
 1. Install the Python 3.9 or higher version, until 3.11.
