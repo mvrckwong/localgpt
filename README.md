@@ -1,8 +1,12 @@
 # LocalGPT
 Building your own chat llm applications.
 
+### Benefits
+- LocalGPT can be used to build your own chat applications.
+
 ## Overview
 - [LocalGPT](#localgpt)
+    - [Benefits](#benefits)
   - [Overview](#overview)
   - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
