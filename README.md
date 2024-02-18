@@ -15,7 +15,7 @@ Before running the python streamlit application, you should have the following i
     pip install poetry
     ```
 3. Download and install ollama in your host machine. [Ollama](https://ollama.com/)
-4. Pull the model using ollama command. Here we are using llama2:chat model.
+4. Pull the model by ollama command. The project is currently using llama2:chat model.
     ``` bash
     ollama pull --model=llama2:chat
     ```
@@ -23,7 +23,7 @@ Before running the python streamlit application, you should have the following i
 
 ### Installation
 
-Ensure all prerequisites are met. You can run the application using by *running the run.bat file* or by running the following command.
+Ensure all prerequisites are met. You can run the application by *running the run.bat file* or by running the following command.
 - Run the command to install the virtual environment and all the dependencies.
     ```bash
     poetry install
