@@ -14,7 +14,7 @@ Building your own chat llm applications.
     - [Installation](#installation)
   - [Roadmap](#roadmap)
   - [Acknowledgement](#acknowledgement)
-    - [Other References](#other-references)
+  - [References](#references)
   - [Contact](#contact)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -48,15 +48,17 @@ Ensure all prerequisites are met. You can run the application using by *running 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Roadmap
-The roadmap is a guide for the author for the progression of this sample project. It may not be the most up-to-date.
 
+The roadmap is a guide for the author for the progression of this sample project. It may not be the most up-to-date.
 - [ ] Sample Feature
     - [ ] Sample Nested Feature
 
 ## Acknowledgement 
 Huge thanks to the following open source projects for inspiration and direction.
 
-### Other References
+## References
+
+These are other references and documentations used to develop the project.
 - [OpenAI](https://openai.com)
 - [Langchain](https://langchain.com)
 - [Streamlit](https://streamlit.io)
