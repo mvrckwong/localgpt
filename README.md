@@ -19,7 +19,6 @@ Before running the python streamlit application, you should have the following i
     ``` bash
     ollama pull --model=llama2:chat
     ```
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Installation
 
