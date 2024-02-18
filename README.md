@@ -1,19 +1,8 @@
-# LocalGPT
-Building your own chat llm applications.
+<h3 align="center">A passionate frontend developer from India</h3>
 
-### Getting Started
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-
-### Installation
-
-
-## Contact
-- [GitHub](https://github.com/mvrckwong)
-- [Linkedin](https://www.linkedin.com/in/mvrckwong/)
-- [Hashnode](https://hashnode.com/@mvrckwong)
-
-## Acknowledgement 
-- [OpenAI](https://openai.com)
-- [Langchain](https://langchain.com)
-- [Streamlit](https://streamlit.io)
-- [Ollama](https://github.com/m-mizutani/ollama)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
