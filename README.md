@@ -24,7 +24,7 @@ You can run the application using by *running the run.bat file* or by running th
     ```bash
     poetry install
     ```
-
+- Run the streamlit application
     ```bash
     poetry run streamlit run src/main.py
     ```
@@ -40,3 +40,6 @@ You can run the application using by *running the run.bat file* or by running th
 - [Langchain](https://langchain.com)
 - [Streamlit](https://streamlit.io)
 - [Ollama](https://github.com/m-mizutani/ollama)
+
+## Reference
+- [Code](https://github.com/mvrckwong/localgpt)
