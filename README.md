@@ -19,7 +19,7 @@ Before running the python streamlit application, you should have the following i
 
 ### Installation
 
-You can run the following application using the following command:
+You can run the application using by **running the run.bat file**.
 
     ```bash
     poetry install
