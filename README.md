@@ -15,7 +15,6 @@ Building your own chat llm applications.
   - [Roadmap](#roadmap)
   - [Acknowledgement](#acknowledgement)
   - [References](#references)
-  - [Contact](#contact)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Getting Started
@@ -65,10 +64,4 @@ These are other references and documentations used to develop the project.
 - [Langchain](https://langchain.com)
 - [Streamlit](https://streamlit.io)
 - [Ollama](https://github.com/m-mizutani/ollama)
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Contact
-- [GitHub](https://github.com/mvrckwong)
-- [Linkedin](https://www.linkedin.com/in/mvrckwong/)
-- [Hashnode](https://hashnode.com/@mvrckwong)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
