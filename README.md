@@ -42,7 +42,7 @@ The roadmap is a guide for the author for the progression of this sample project
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Acknowledgement 
-Huge thanks to the following open source projects for inspiration and direction. The open sourced videos have been great guidance to developing the project and personal growth.
+Huge thanks to the following open source projects for inspiration and direction. The open sourced projects and/or videos have been great guidance to developing the project and personal growth.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## References
