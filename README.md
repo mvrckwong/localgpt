@@ -48,10 +48,9 @@ Ensure all prerequisites are met. You can run the application using by *running 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Roadmap
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+The roadmap is just a reference for the author for the progression of this sample project. It may not be the most up-to-date. Its a guide for the author for the project.
+- [ ] Sample Feature
+    - [ ] Sample Nested Feature
 
 ## Acknowledgement 
 Huge thanks to the following open source projects for inspiration and direction.
