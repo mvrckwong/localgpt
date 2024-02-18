@@ -8,6 +8,7 @@ Building your own chat llm applications.
 Before running the python application, you should have the following installed in your local machine.
 1. Install the python 3.9 or higher version, until 3.11.
 2. Install the poetry library. The python library will handle your python dependencies and virtual environment in your local machine.
+3. Download and install ollama in your host machine. [Ollama](https://ollama.com/)
 
 ### Installation
 
