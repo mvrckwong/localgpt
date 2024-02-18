@@ -11,6 +11,7 @@ Building your own chat llm applications.
   - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
+    - [Roadmap](#roadmap)
   - [Acknowledgement](#acknowledgement)
     - [Other References](#other-references)
   - [Contact](#contact)
@@ -42,6 +43,10 @@ You can run the application using by *running the run.bat file* or by running th
     ```bash
     poetry run streamlit run src/main.py
     ```
+
+### Roadmap
+[x] Sample 
+[] Sample
 
 ## Acknowledgement 
 Huge thanks to the following open source projects for inspiration and direction.
