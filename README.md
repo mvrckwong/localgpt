@@ -11,6 +11,14 @@ Before running the python application, you should have the following installed i
 
 ### Installation
 
+You can run the following application using the following command:
+
+```bash
+poetry install
+
+poetry run streamlit run src/main.py
+```
+
 
 ## Contact
 - [GitHub](https://github.com/mvrckwong)
