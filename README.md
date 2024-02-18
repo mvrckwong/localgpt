@@ -29,17 +29,16 @@ You can run the application using by *running the run.bat file* or by running th
     poetry run streamlit run src/main.py
     ```
 
-
-## Contact
-- [GitHub](https://github.com/mvrckwong)
-- [Linkedin](https://www.linkedin.com/in/mvrckwong/)
-- [Hashnode](https://hashnode.com/@mvrckwong)
-
 ## Acknowledgement 
+Huge thanks to the following open source projects for inspiration and direction.
+
+### Other References
 - [OpenAI](https://openai.com)
 - [Langchain](https://langchain.com)
 - [Streamlit](https://streamlit.io)
 - [Ollama](https://github.com/m-mizutani/ollama)
 
-## Reference
-- [Code](https://github.com/mvrckwong/localgpt)
+## Contact
+- [GitHub](https://github.com/mvrckwong)
+- [Linkedin](https://www.linkedin.com/in/mvrckwong/)
+- [Hashnode](https://hashnode.com/@mvrckwong)
