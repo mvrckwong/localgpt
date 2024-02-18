@@ -48,7 +48,8 @@ Ensure all prerequisites are met. You can run the application using by *running 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Roadmap
-The roadmap is just a reference for the author for the progression of this sample project. It may not be the most up-to-date. Its a guide for the author for the project.
+The roadmap is a guide for the author for the progression of this sample project. It may not be the most up-to-date.
+
 - [ ] Sample Feature
     - [ ] Sample Nested Feature
 
