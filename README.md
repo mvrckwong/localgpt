@@ -26,7 +26,7 @@ Before running the python streamlit application, you should have the following i
     ollama pull --model=llama2:chat
     ```
 
-### Installation
+### Running the Application
 
 Ensure all prerequisites are met. You can run the application by *running the run.bat file* or by running the following command.
 - Run the command to install the virtual environment and all the dependencies.
