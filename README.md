@@ -2,7 +2,7 @@
 <a name="readme-top"></a>
 At this project I am creating my own chat llm applications that can be run on you local machine. The project is built on open source large language models manage by Ollama, and python library streamlit. LocalGPT is an open-source project that enables users to interact large language models (LLMs) locally, without an internet connection. 
 
-![Reference](/.images/logo.png)
+![Reference](/.images/Sample.gif)
 
 Here are some advantages and benefits of using LocalGPT.
 - Privacy and Security: Since LocalGPT runs entirely on your own machine, it eliminates concerns about privacy and security associated with sending data to remote servers for processing. This is particularly important for sensitive data or applications where data privacy is a priority.
